@@ -1,3 +1,4 @@
+//node app.js for EGCO344 - Web Services and APIs
 const express = require('express');
 
 const app = express();
