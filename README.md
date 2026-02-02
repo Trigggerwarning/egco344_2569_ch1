@@ -1,3 +1,4 @@
+# The Team Note - v1.0
 Step 1: The Setup (Dev 1 & Dev 2)
 Everyone else can watch this part.
 1. Dev 1 returns to the main branch locally and pulls the latest changes:
